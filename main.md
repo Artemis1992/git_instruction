@@ -11,3 +11,9 @@ git log
 ```
 git checkout
 ```
+
+## Научились сливать ветви.
+
+```
+git merge
+```
