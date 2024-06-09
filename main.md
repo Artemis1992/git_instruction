@@ -23,3 +23,9 @@ git branch
 ```
 git branch -d <branch>
 ```
+
+## Научились менять названия ветвей.
+
+```
+git branch -m <old_branch> <new_branch>
+```
