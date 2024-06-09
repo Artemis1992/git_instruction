@@ -17,3 +17,9 @@ git status
 ```
 git branch
 ```
+
+## Научились удалять ветвь.
+
+```
+git branch -d <branch>
+```
