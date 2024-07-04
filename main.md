@@ -66,3 +66,11 @@ git init
 ```
 git help
 ```
+
+## Научились push-ить на GitHub.
+
+
++ git remote add origin https://github.com/Artemis1992/git_instruction.git
++ git branch -M main
++ git push -u origin main
+
